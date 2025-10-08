@@ -30,7 +30,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-30 h-[80px] sm:h-30 flex items-center justify-center rounded-3xl bg-white/20 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-fwd-tl-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/java (1).png" alt="Java" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\java (1).png" alt="Java" />
           </div>
 
           {/* JavaScript */}
@@ -38,7 +38,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-25 h-[80px] sm:h-25 flex items-center justify-center rounded-3xl bg-yellow-300 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-fwd-top-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/js (1).png" alt="JavaScript" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\js (1).png" alt="JavaScript" />
           </div>
 
           {/* React */}
@@ -46,7 +46,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-30 h-[80px] sm:h-30 flex items-center justify-center rounded-3xl bg-white/20 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-fwd-top-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/react.png" alt="React" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\react.png" alt="React" />
           </div>
 
           {/* HTML */}
@@ -54,7 +54,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-30 h-[80px] sm:h-30 flex items-center justify-center rounded-3xl bg-white/20 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-fwd-top-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/html.png" alt="HTML" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\html.png" alt="HTML" />
           </div>
 
           {/* CSS */}
@@ -62,7 +62,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-30 h-[80px] sm:h-30 flex items-center justify-center rounded-3xl bg-white/20 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-fwd-top-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/css-3.png" alt="CSS" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\css-3.png" alt="CSS" />
           </div>
 
           {/* SQL Server */}
@@ -70,7 +70,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-30 h-[80px] sm:h-30 flex items-center justify-center rounded-3xl bg-white/20 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-fwd-tr-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/sql-server.png" alt="SQL Server" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\sql-server.png" alt="SQL Server" />
           </div>
         </div>
 
@@ -82,7 +82,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-30 h-[80px] sm:h-30 flex items-center justify-center rounded-3xl bg-white/20 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-bl-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/nodejs.png" alt="Node.js" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\nodejs.png" alt="Node.js" />
           </div>
 
           {/* MongoDB */}
@@ -90,7 +90,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-35 h-[80px] sm:h-30 flex items-center justify-center rounded-3xl bg-white/20 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-fwd-bottom-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/mongo-removebg-preview.png" alt="MongoDB" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\mongo-removebg-preview.png" alt="MongoDB" />
           </div>
 
           {/* GitHub */}
@@ -98,7 +98,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-30 h-[80px] sm:h-30 flex items-center justify-center rounded-3xl bg-white/20 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-fwd-bottom-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/github.png" alt="GitHub" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\github.png" alt="GitHub" />
           </div>
 
           {/* Logo */}
@@ -106,7 +106,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-30 h-[80px] sm:h-30 flex items-center justify-center rounded-3xl bg-white/20 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-fwd-bottom-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/logo.png" alt="Logo" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\logo.png" alt="Logo" />
           </div>
 
           {/* Jupyter */}
@@ -114,7 +114,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-30 h-[80px] sm:h-30 flex items-center justify-center rounded-3xl bg-white/20 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-fwd-bottom-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/Jupyter_logo.svg.png" alt="Jupyter" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\Jupyter_logo.svg.png" alt="Jupyter" />
           </div>
 
           {/* Python */}
@@ -122,7 +122,7 @@ const Skills = () => {
             className={`p-3 w-[80px] sm:w-30 h-[80px] sm:h-30 flex items-center justify-center rounded-3xl bg-white/20 hover:scale-105 transition-transform duration-300 cursor-pointer opacity-0 ${inViewSkill ? "slide-in-fwd-br-normal opacity-100" : ""
               }`}
           >
-            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="src/assets/python.png" alt="Python" />
+            <img className="w-12 h-12 sm:w-16 sm:h-16 object-contain" src="public\python.png" alt="Python" />
           </div>
         </div>
 
