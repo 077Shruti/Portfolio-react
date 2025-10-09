@@ -60,7 +60,7 @@ const Hero = () => {
         >
           <img
             className="w-64 sm:w-80 md:w-[400px] lg:w-[500px] h-auto mx-auto"
-            src="public\giphyonline-video-cutter.com-ezgif.com-video-to-gif-converter.gif"
+            src="giphyonline-video-cutter.com-ezgif.com-video-to-gif-converter.gif"
             alt="Animated GIF"
           />
         </div>

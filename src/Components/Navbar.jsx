@@ -1,7 +1,7 @@
 import { GiHamburgerMenu } from "react-icons/gi";
 import { VscOctoface } from "react-icons/vsc";
 import { useState } from 'react';
-
+// 
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);

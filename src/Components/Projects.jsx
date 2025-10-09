@@ -47,7 +47,7 @@ const Projects = () => {
                         <div className="flex justify-center mt-5 sm:mt-6">
                             <img
                                 className="rounded-2xl w-[85%] sm:w-[300px] h-[140px] sm:h-[170px] object-cover hover:scale-105 transition-transform duration-300"
-                                src="public\triveni.png"
+                                src="triveni.png"
                                 alt="Triveni Museum Website"
                             />
                         </div>
@@ -90,7 +90,7 @@ const Projects = () => {
                         <div className="flex justify-center mt-5 sm:mt-6">
                             <img
                                 className="rounded-2xl w-[85%] sm:w-[300px] h-[140px] sm:h-[170px] object-cover hover:scale-105 transition-transform duration-300"
-                                src="public\URL.png"
+                                src="URL.png"
                                 alt="URL Shortener"
                             />
                         </div>
@@ -133,7 +133,7 @@ const Projects = () => {
                         <div className="flex justify-center mt-5 sm:mt-6">
                             <img
                                 className="rounded-2xl w-[85%] sm:w-[300px] h-[140px] sm:h-[170px] object-cover hover:scale-105 transition-transform duration-300"
-                                src="public\Syntrix.png"
+                                src="Syntrix.png"
                                 alt="Syntrix Project"
                             />
                         </div>
